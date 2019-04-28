@@ -6,3 +6,5 @@ testFunc();
 
 // git diff HEAD
 // edit from github1
+
+// edit checkout master
