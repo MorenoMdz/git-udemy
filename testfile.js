@@ -3,3 +3,5 @@ function testFunc() {
 }
 
 testFunc();
+
+// git diff HEAD
