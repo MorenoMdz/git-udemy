@@ -5,3 +5,4 @@ function testFunc() {
 testFunc();
 
 // git diff HEAD
+// edit from github1
